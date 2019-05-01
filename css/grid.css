@@ -1,0 +1,42 @@
+body {
+
+  padding-bottom: 2rem;
+
+}
+
+h3 {
+  margin-top: 2rem;
+}
+
+.row {
+  margin-bottom: 1rem;
+  background: rgb(241, 241, 243);
+
+}
+.row .row {
+  margin-top: 1rem;
+  margin-bottom: 0;
+
+}
+[class*="col-"] {
+  padding-top: 1rem;
+  padding-bottom: 1rem; 
+  background: rgb(239, 239, 243);
+  border: 1px solid rgba(136, 216, 236, 0.2);
+
+}
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+}
+
+.centered
+{
+
+    text-align:right;
+}
+.span7.btn { display: block;   margin-left: auto;   margin-right: auto; }
+
+
